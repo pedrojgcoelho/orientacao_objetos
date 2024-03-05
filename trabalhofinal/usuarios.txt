@@ -1,0 +1,6 @@
+u001,Pedro Lima,Cliente,pedroh@gmail.com,1276
+u002,Pedro Paixao,Cliente,paixao@gmail.com,9624
+u003,Marcio Machado,Cliente,marciom@gmail.com,1475
+u004,Pedro Coelho,Cliente,pcoelho@gmail.com,8659
+u005,kelmer Santos,Cliente,kelmers@gmail.com,6627
+u006,Pedro Oliveira,Cliente,Oliveirap@gmail.com,4065
