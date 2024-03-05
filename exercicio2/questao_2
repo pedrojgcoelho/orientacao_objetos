@@ -1,0 +1,5 @@
+from aluno import Aluno
+
+aluno_ensino_medio = Aluno("Maria da Silva", "987654321", [5, 5], "EnsinoMedio")
+
+print(aluno_ensino_medio.aprovado())

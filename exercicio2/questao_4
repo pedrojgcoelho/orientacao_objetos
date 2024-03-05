@@ -1,0 +1,5 @@
+from aluno import Aluno
+
+aluno = Aluno("João da Silva", "123456789", [7, 8])
+
+print(aluno.get_dados())

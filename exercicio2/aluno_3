@@ -1,0 +1,15 @@
+class Aluno3:
+  def __init__(self, nome, matricula, notas, grau_escolar):
+    self.nome = nome
+    self.matricula = matricula
+    self.notas = notas
+    self.grau_escolar = grau_escolar
+
+  def media(self):
+    return sum(self.notas) / len(self.notas)
+
+  def aprovado(self):
+    if self.grau_escolar == "EnsinoSuperior" and self.media() >= 7:
+      return True
+    else:
+      return False

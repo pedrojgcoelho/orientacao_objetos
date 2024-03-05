@@ -1,0 +1,7 @@
+class Professor:
+  def __init__(self, nome, titulacao):
+    self.nome = nome
+    self.titulacao = titulacao
+
+  def get_dados(self):
+    return (self.nome, self.titulacao)

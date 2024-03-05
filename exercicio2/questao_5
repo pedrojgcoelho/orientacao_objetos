@@ -1,0 +1,5 @@
+from professor import Professor
+
+professor = Professor("Maria José", "Doutorado")
+
+print(professor.get_dados())
